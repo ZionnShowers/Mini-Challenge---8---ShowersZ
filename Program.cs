@@ -4,8 +4,8 @@
 /*I basically just copied and pasted most of the code from mini challenge 2 and 4, but edited the parts where it converted strings into integers using TryParse
  statements instead to make sure the user has actually inputted a number rather than anything else. I also added a try again option for each part by asking the
  user if they want to play the game again or if they want to move on.*/
-//Peer Review:
-/*Review: */
+//Peer Review: Valery Lot
+/*Review: Flow chart looks good. I didn't think of combining it so that Mini Challenge 2 and 4 link together, but it makes sense. Also, great use of the OR Logical Operator in your while loop, so you only have to do 1 while loop rather than 2. I would recommend a few Console.WriteLine() to differentiate between the 2 games and would make for a better user experience.*/
 
 Console.Clear();
 
